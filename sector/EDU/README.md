@@ -31,108 +31,34 @@ The files in this repository are based on the Education Facilities dataset, deve
 
 This georeferenced layer was constructed using official datasets provided by government agencies from each country. Availability varies by country, and some sources are not publicly accessible. Below is a summary of the data sources used:
 
-#### Argentina (ARG)
-**Dirección de Información Educativa, Secretaría de Educación (2023)**  
-Listado de establecimientos con características básicas (Mapa Interactivo de la Oferta Educativa).  
-**Availability:** Online (not exportable)
+### About the georeferenced layer
 
-#### Belize (BLZ)
-**BEMIS, MoECST (2020)**  
-Geo-schools by educational level.  
-**Availability:** Not publicly available
+This georeferenced layer was constructed using official datasets provided by government agencies from each country. Availability varies by country, and some sources are not publicly accessible. Below is a summary of the data sources used:
 
-#### Bolivia (BOL)
-**Ministerio de Educación, Dirección General de Planificación (2023)**  
-Instituciones educativas.  
-**Availability:** Online (not exportable)
+| Country | Source (Year) | Description | Availability |
+|--------|----------------|-------------|--------------|
+| **ARG** | Dirección de Información Educativa (2023) | Listado de establecimientos con características básicas<br>(Mapa Interactivo de la Oferta Educativa) | Online (not exportable) |
+| **BLZ** | BEMIS, MoECST (2020) | Geo-schools by educational level | Not publicly available |
+| **BOL** | Ministerio de Educación – Dir. Gral. de Planificación (2023) | Instituciones educativas | Online (not exportable) |
+| **BRA** | INEP (2023) | Censo Escolar | Online |
+| **BRB** | IT & Quality Assurance Unit (2024) | Government Schools Data Schema | Not publicly available |
+| **CHL** | Ministerio de Educación (2023) | Datos Abiertos de Establecimientos Educacionales | Online |
+| **COL** | DANE (2024) | Educación Formal 2023: sedes educativas oficiales y no oficiales | Online |
+| **CRI** | — (2025) | — | Not publicly available |
+| **ECU** | AMIE, Ministerio de Educación (2023) | Coordenadas de instituciones educativas | Not publicly available |
+| **GTM** | Ministerio de Educación (2024) | Sistema de Registros Educativos | Not publicly available |
+| **GUY** | Ministry of Education (2022) | School data mapping | Not publicly available |
+| **HND** | Secretaría de Educación, SIPLIE (2020) | Georreferenciación nacional | Not publicly available |
+| **JAM** | Ministry of Education, Skills, Youth & Information (2019) | Safe School Administrative Portal | Not publicly available |
+| **MEX** | SEP, SIGED (2024) | Ubicación Geográfica de Escuelas | Online |
+| **PAN** | Ministerio de Educación (2024) | Directorio y georreferenciación de centros | Not publicly available |
+| **PER** | Estadística de la Calidad Educativa (2024) | Censo Educativo 2023: Padrón, Matrícula, Recursos | Online |
+| **PRY** | Ministerio de Educación y Ciencias (2023) | Establecimientos escolares | Online |
+| **DOM** | Ministerio de Educación (2021) | Georreferenciación de centros | Not publicly available |
+| **SLV** | Ministerio de Educación (2024) | Coordenadas educativas | Not publicly available |
+| **SUR** | Ministry of Education, Science & Culture (2024) | School list Suriname | Not publicly available |
+| **URY** | ANEP (2024) | Hiperbase de Educación Inicial y Primaria | Not publicly available |
 
-#### Brazil (BRA)
-**INEP (2023)**  
-Censo Escolar.  
-**Availability:** Online
-
-#### Barbados (BRB)
-**Information Technology and Quality Assurance Unit (2024)**  
-Government Schools Data Schema.  
-**Availability:** Not publicly available
-
-#### Chile (CHL)
-**Ministerio de Educación (2023)**  
-Datos Abiertos de Establecimientos Educacionales.  
-**Availability:** Online
-
-#### Colombia (COL)
-**DANE (2024)**  
-Educación Formal 2023: sedes educativas oficiales y no oficiales, urbanas y rurales.  
-**Availability:** Online
-
-#### Costa Rica (CRI)
-**Availability:** Not publicly available (2025)
-
-#### Ecuador (ECU)
-**AMIE, Ministerio de Educación (2023)**  
-Coordenadas de instituciones educativas.  
-**Availability:** Not publicly available
-
-#### Guatemala (GTM)
-**Ministerio de Educación (2024)**  
-Sistema de Registros Educativos.  
-**Availability:** Not publicly available
-
-#### Guyana (GUY)
-**Ministry of Education (2022)**  
-School data mapping.  
-**Availability:** Not publicly available
-
-#### Honduras (HND)
-**Secretaría de Educación, SIPLIE (2020)**  
-Georreferenciación a nivel nacional.  
-**Availability:** Not publicly available
-
-#### Jamaica (JAM)
-**Ministry of Education, Skills, Youth and Information (2019)**  
-Safe School Administrative Portal.  
-**Availability:** Not publicly available
-
-#### Mexico (MEX)
-**Secretaría de Educación Pública, SIGED (2024)**  
-Ubicación Geográfica de Escuelas del Sistema Educativo Nacional.  
-**Availability:** Online
-
-#### Panama (PAN)
-**Ministerio de Educación (2024)**  
-Directorio de Centros Educativos y georreferenciación de centros.  
-**Availability:** Not publicly available
-
-#### Peru (PER)
-**Estadística de la Calidad Educativa (2024)**  
-Censo Educativo 2023: Padrón, Matrícula y Recursos.  
-**Availability:** Online
-
-#### Paraguay (PRY)
-**Ministerio de Educación y Ciencias (2023)**  
-Establecimientos Escolares.  
-**Availability:** Online
-
-#### Dominican Republic (DOM)
-**Ministerio de Educación (2021)**  
-Georreferenciación de centros.  
-**Availability:** Not publicly available
-
-#### El Salvador (SLV)
-**Ministerio de Educación (2024)**  
-Coordenadas educativas.  
-**Availability:** Not publicly available
-
-#### Suriname (SUR)
-**Ministry of Education, Science and Culture (2024)**  
-School list Suriname.  
-**Availability:** Not publicly available
-
-#### Uruguay (URY)
-**ANEP (2024)**  
-Hiperbase de Educación Inicial y Primaria.  
-**Availability:** Not publicly available
 
 ### License and Use Conditions
 

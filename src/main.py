@@ -71,9 +71,13 @@ __all__ = [
     'quarter_start',
     'find_best_match',
     'calculate_stats',
+    'palettes',
+    'expand_colors',
+    'create_bivariate',
     'get_desinventar',
     'get_emdat',
     'get_desastres',
     'normalize_text',
-    'get_metadata'
+    'get_metadata',
+    'get_data_types'
 ]

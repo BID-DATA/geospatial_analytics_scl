@@ -1,3 +1,16 @@
+import os
+import io
+import boto3
+import dotenv
+
+import pandas as pd
+import geopandas as gpd
+
+dotenv.load_dotenv()
+s3          = boto3.client('s3')
+sclbucket   = os.environ.get("sclbucket")
+scldatalake = os.environ.get("scldatalake")
+
 def get_iadb():
     """
     process data to obtain the spanish and english country names for IADB countries
