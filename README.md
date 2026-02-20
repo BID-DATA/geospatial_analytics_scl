@@ -15,8 +15,8 @@ Welcome to the Geospatial Analytics SCL repository. This analytical repository s
 
 This repository is designed around two goals: 
 
-1. **Reusable building blocks** for common geospatial tasks (in `src/`).
-2. **Applied sector workflows** that demonstrate how to use those building blocks end-to-end (in `sector/`).
+1. Reusable building blocks for common geospatial tasks (in `src/`).
+2. Applied sector workflows that demonstrate how to use those building blocks end-to-end (in `sector/`).
 
 In line with the [SCL geospatial governance](https://idbg.sharepoint.com/:b:/r/sites/DataGovernance-SCL/Shared%20Documents/General/M.%20Manuals%20%26%20Standards/M.1%20Data%20Governance/M.1.6%20Geospatial%20Data/SCL%20Geospatial%20Data%20Governance%20Framework.pdf?csf=1&web=1&e=KwhwHo), the emphasis is on consistency, reproducibility, and clear documentation practices across projects. 
 
@@ -41,22 +41,20 @@ The repository contains:
 
 ## How to use?
 
-1. **Start in `sector/`**: pick the workflow closest to your use case and run it as the “reference implementation”.
-2. **Trace back to `src/`**: reuse the underlying functions/modules for your own project (instead of re-implementing processing steps).
+1. **Start in **`sector/`: pick the workflow closest to your use case and run it as the “reference implementation”.
+2. **Trace back to **`src/`: reuse the underlying functions/modules for your own project (instead of re-implementing processing steps).
 3. **Document what you produce**: use `metadata-sample.csv` as a starting point to document key inputs/outputs and support reproducibility and handoff.
 4. **Archive appropriately**: keep workflows that are meant to be reusable in this repository; keep strictly project-specific scripts with the project deliverables when they are not intended for broader reuse
 
 ## Author 
 
-Created by **[Laura Goyeneche](https://github.com/lgoyenec)**, Social Data Consultant at the Inter-American Development Bank (IDB). 
-
-Maintained by **Laura Goyeneche** (current) and the **SCL team** (for continuity and future handoff).
+Created by **[Laura Goyeneche](https://github.com/lgoyenec)**, Social Data Consultant at the Inter-American Development Bank (IDB), and maintained by **SCL Geospatial team** (for continuity and future handoff).
 
 ## Citation 
 
 If you use this repository in a report, paper, or product, please cite it as:
 
-> "Inter-American Development Bank (IDB), Geospatial Analytics SCL (consultation date: YYYY-MM-DD"
+> "Inter-American Development Bank (IDB), Geospatial Analytics SCL (consultation date: YYYY-MM-DD)"
 
 We recommend including the consultation date because analytical inputs and derived outputs can evolve over time.
 
