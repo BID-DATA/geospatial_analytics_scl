@@ -10,6 +10,7 @@ Welcome to the Geospatial Analytics SCL repository. This analytical repository s
 - [Author](#author)
 - [Citation](#citation)
 - [Limitations](#limitations)
+- [Contributions](#limitations)
 
 ## Introduction
 
@@ -60,10 +61,10 @@ We recommend including the consultation date because analytical inputs and deriv
 
 > All rights concerning the public datasets used from Meta, HDX, OpenStreetMaps, and healthsites.io belong to their respective owners.
 
-## Limitations of responsibilities 
+## Limitations
 
 The IDB is not responsible, under any circumstance, for damage or compensation, moral or patrimonial; direct or indirect; accessory or special; or by way of consequence, foreseen or unforeseen, that could arise: (i) under any concept of intellectual property, negligence, or detriment of another party theory; (ii) following the use of the digital tool, including, but not limited to defects in the Digital Tool, or the loss or inaccuracy of data of any kind. The foregoing includes expenses or damages associated with communication failures and/or malfunctions of computers linked to the use of the digital tool.
 
-## Contributing 
+## Contributions 
 
 We welcome contributions from the community! If you have suggestions for new features, improvements, or bug fixes, please feel free to submit a pull request. When contributing, please ensure that your code is well-documented and follows the project's coding standards.
