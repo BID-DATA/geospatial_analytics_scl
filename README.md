@@ -18,7 +18,7 @@ This repository is designed around two goals:
 1. Reusable building blocks for common geospatial tasks (in `src/`).
 2. Applied sector workflows that demonstrate how to use those building blocks end-to-end (in `sector/`).
 
-In line with the [SCL geospatial governance](https://idbg.sharepoint.com/:b:/r/sites/DataGovernance-SCL/Shared%20Documents/General/M.%20Manuals%20%26%20Standards/M.1%20Data%20Governance/M.1.6%20Geospatial%20Data/SCL%20Geospatial%20Data%20Governance%20Framework.pdf?csf=1&web=1&e=KwhwHo), the emphasis is on consistency, reproducibility, and clear documentation practices across projects. 
+To support collaboration and long-term maintainability, workflows are organized to be easy to navigate, adapt, and hand off, with lightweight metadata and clear conventions for inputs/outputs and intermediate products. In line with the [SCL geospatial governance](https://idbg.sharepoint.com/:b:/r/sites/DataGovernance-SCL/Shared%20Documents/General/M.%20Manuals%20%26%20Standards/M.1%20Data%20Governance/M.1.6%20Geospatial%20Data/SCL%20Geospatial%20Data%20Governance%20Framework.pdf?csf=1&web=1&e=KwhwHo), the emphasis is on consistency, reproducibility, and clear documentation practices across projects. 
 
 ## Repository structure
 
@@ -48,7 +48,7 @@ The repository contains:
 
 ## Author 
 
-Created by **[Laura Goyeneche](https://github.com/lgoyenec)**, Social Data Consultant at the Inter-American Development Bank (IDB), and maintained by **SCL Geospatial team** (for continuity and future handoff).
+Created by **[Laura Goyeneche](https://github.com/lgoyenec)**, Social Data Consultant at the Inter-American Development Bank (IDB), and maintained by **SCL Geospatial team**.
 
 ## Citation 
 
