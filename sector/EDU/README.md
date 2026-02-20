@@ -38,7 +38,7 @@ The files in this folder are based on the Education Facilities dataset, develope
 - The dataset is available upon request via the [SCL Data Lake folder](https://scldata.iadb.org/app/folder/768E6E2A-DEFF-4BF9-B62D-E32518B15180). 
 - For access or further information, please contact: **Elena Arias Ortiz (eariasortiz@iadb.org)**. 
 
-## Licenses and use conditions
+### Licenses and use conditions
 The data contained in this layer may be used exclusively for analytical, academic, or public policy purposes, provided that proper credit is given to CIMA. **Commercial use** (or any other purpose) is **not authorized** without explicit consent from CIMA. 
 
 ## Data sources
