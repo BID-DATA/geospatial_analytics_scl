@@ -42,8 +42,8 @@ The repository contains:
 
 ## How to use?
 
-1. **Start in **`sector/`: pick the workflow closest to your use case and run it as the “reference implementation”.
-2. **Trace back to **`src/`: reuse the underlying functions/modules for your own project (instead of re-implementing processing steps).
+1. **Start in** `sector/`: pick the workflow closest to your use case and run it as the “reference implementation”.
+2. **Trace back to** `src/`: reuse the underlying functions/modules for your own project (instead of re-implementing processing steps).
 3. **Document what you produce**: use `metadata-sample.csv` as a starting point to document key inputs/outputs and support reproducibility and handoff.
 4. **Archive appropriately**: keep workflows that are meant to be reusable in this repository; keep strictly project-specific scripts with the project deliverables when they are not intended for broader reuse
 
