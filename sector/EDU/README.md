@@ -7,7 +7,7 @@ This folder contains the **Education (EDU)** component of the *Geospatial Analyt
 - [Introduction](#introduction)
 - [Folder contents](#folder-contents)
 - [Data access](#data-access)
-- [Licenses and use conditions](#licenses-and-use-conditions]
+- [Licenses and use conditions](#licenses-and-use-conditions)
 - [Data sources[(#data-sources)
 - [Author](#author)
 - [Citation](#citation)
